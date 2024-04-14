@@ -1,0 +1,23 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
